@@ -1,12 +1,14 @@
-- **Version**: 1.0.0
+- **Version**: 1.0.1
 
 - **Certified**: Yes
 
 - **Publisher**: Fortinet
 
-- **Compatibility**: 8.0.0 and later
+- **Compatibility**: 8.0.1 and later
 
 - **Applicable**: FortiAI solution pack
+
+- [Release Notes](./release_notes.md)
 
 ## Overview
 
