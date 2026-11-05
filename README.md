@@ -4,7 +4,7 @@
 
 - **Publisher**: Fortinet
 
-- **Compatibility**: 8.0.1 and later
+- **Compatibility**: 8.0.0 and later
 
 - **Applicable**: FortiAI solution pack
 
